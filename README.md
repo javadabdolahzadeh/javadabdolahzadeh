@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I am a passionate and dedicated researcher and developer with experience in artificial intelligence and a strong background in mathematics. My journey in the field of Artificial Intelligence (AI) has equipped me with extensive expertise in various domains, including machine learning, deep learning, and reinforcement learning.
+Hello! I am a passionate and researcher and developer experienced in artificial intelligence, I have also conducted extensive studies in artificial intelligence and mathematics. My journey in the field of Artificial Intelligence (AI) has equipped me with extensive expertise in various domains, including machine learning, deep learning, and reinforcement learning.
 
 My primary research areas and skills encompass:
 - 🧠 **Machine Learning**
