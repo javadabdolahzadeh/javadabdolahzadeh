@@ -15,7 +15,15 @@ My primary research areas and skills encompass:
 - 🔍 **Pattern Recognition**
 - 📡 **Signal Processing**
 
-Additionally, I have hands-on experience in server-side development and have worked with various cutting-edge technologies and tools.
+Additionally, I have hands-on experience in server-side development and have worked with various cutting-edge technologies and tools:
+- Django
+- rabbitmq
+- celery
+- django-rest-framework
+- datbase design
+- redis
+- mongodb
+- fast api
 
 ## Professional Experience
 
